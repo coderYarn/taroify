@@ -141,7 +141,7 @@ function ActionBarBottom() {
 |-------------|--------------------------------------------------------------------------|-------------| -------------- |
 | justify     | 主轴对齐方式，可选值为 `start` `end` `center` `space-around` `space-between`  | _string_   | `space-between` |
 | fixed       | 是否固定在底部                                                              | _boolean_   |     `false`    |
-| placeholder | 固定在底部时，是否在标签位置生成一个等高的占位元素                                 | _boolean_   |     `false`     |
+| placeholder | 固定在底部时，是否在标签位置生成一个等高的占位元素                             | _boolean_   |     `false`     |
 
 ### ActionBar.ButtonGroup Props
 
